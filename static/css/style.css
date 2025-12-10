@@ -9,6 +9,19 @@ body {
 
 }
 
+body {
+    font-family: 'Roboto', Helvetica, Arial, 'century gothic', 'Microsoft YaHei', sans-serif;
+    font-size: 18px;
+    font-weight: 400;   /* normal weight */
+    color: #000000;
+}
+
+.text_block b,
+.text_block strong {
+    font-weight: 700;   /* use real bold weight */
+}
+
+
 p {
     padding: 0 0 10px 0;
     line-height: 1.7em;
